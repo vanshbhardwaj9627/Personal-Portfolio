@@ -1,0 +1,43 @@
+Specification for Homepage Project
+
+HTML Tags Used
+--------------
+
+1. <header> - Used to contain the website navigation.
+2. <nav> - Used to organize navigation links.
+3. <main> - Used to wrap the primary content of each page.
+4. <section> - Used to divide each page into meaningful content sections.
+5. <div> - Used as a container for grouping related elements.
+6. <h1> - Used for the main heading of each page.
+7. <h3> - Used for headings inside cards and subsections.
+8. <p> - Used for descriptions and body text.
+9. <a> - Used for internal navigation and external links.
+10. <img> - Used to display profile pictures and content thumbnails.
+11. <ul> - Used to create the navigation menu.
+12. <li> - Used for individual navigation items.
+13. <button> - Used for the Copy Email and Dark Mode toggle buttons.
+14. <i> - Used with Bootstrap Icons to display social media and contact icons.
+
+CSS Properties Used
+-------------------
+
+1. display
+2. margin
+3. padding
+4. font-size
+5. color
+6. background-color
+7. border-radius
+8. transition
+9. transform
+10. box-shadow
+
+JavaScript
+----------
+
+JavaScript was used to implement a dark mode toggle and a copy-to-clipboard feature for the email address, providing interactive functionality for users.
+
+Bootstrap
+---------
+
+Bootstrap was used to incorporate Bootstrap Icons for social media and contact icons, helping create a clean and consistent user interface.
